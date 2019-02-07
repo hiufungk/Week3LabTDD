@@ -1,4 +1,5 @@
-# Week3LabTDD
+# Week3LabTDD [![Build Status](https://travis-ci.org/hiufungk/Week3LabTDD.svg?branch=master)](https://travis-ci.org/hiufungk/Week3LabTDD) [![codecov](https://codecov.io/gh/hiufungk/Week3LabTDD/branch/master/graph/badge.svg)](https://codecov.io/gh/hiufungk/Week3LabTDD)
+
 
 The master branch contains the skeleton. 
 
